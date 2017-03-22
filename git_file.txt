@@ -4,4 +4,7 @@ Hello World!
 I'm using git! 
 
 
+And I'm testing my understanding of branches and merging!
+
+
 -Andrew McCrabb McCrabb
