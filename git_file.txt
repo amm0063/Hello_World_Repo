@@ -1,12 +1,9 @@
 Hello World!  
 
 
-I'm using git! 
+I'm happy to announce that I have been accepted to Purdue University and the University of Michigan!
 
-
-And I'm testing my understanding of branches and merging!
-
-(and one more time, to make sure)
+I expect I will choose the University of Michigan.
 
 
 -Andrew McCrabb McCrabb
